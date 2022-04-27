@@ -25,7 +25,5 @@ Following requirements should be met:
 You can find a discussion on implementing Spring Security in the [Spring Online Documentation.](https://spring.io/guides/gs/securing-web/)
  
 
-### Due Date
 
-2021-03-24
 
